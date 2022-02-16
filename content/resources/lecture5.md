@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains histogram of the data and p.d.f. of fitted normal
   distribution, empirical c.d.f. and c.d.f. of fitted normal distribution and  distribution
   of the estimates of parameters of normal distribution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-443-statistics-for-applications-fall-2006/feeae6a2dbc7f6b055f4ff2216f7f96c_lecture5.pdf
+file: /media/courses/18-443-statistics-for-applications-fall-2006/feeae6a2dbc7f6b055f4ff2216f7f96c_lecture5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture5.pdf
 uid: feeae6a2-dbc7-f6b0-55f4-ff2216f7f96c
