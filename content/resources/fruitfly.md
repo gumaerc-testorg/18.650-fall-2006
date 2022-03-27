@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: be304f2c-2c95-3914-c7ed-f3c4529a02a5
 resourcetype: Other
 title: fruitfly.mat
 uid: 0ba55d4a-47f2-64fc-0aa8-64f762704a06

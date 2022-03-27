@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3f746bf4-aff9-f451-84a5-eb1e42a7ecbd
 resourcetype: Document
 title: ptest2_443.pdf
 uid: a42644e7-35a7-c7de-5e4f-a62032b6804d
