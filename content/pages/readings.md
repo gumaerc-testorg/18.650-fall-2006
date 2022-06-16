@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Schedule of reading assignments. All readings refer to DeGroot, Morris
+  H., and Mark J. Schervish. Probability and Statistics. 3rd ed. Boston, MA: Addison-Wesley,
+  2002. ISBN: 0201524880.'
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

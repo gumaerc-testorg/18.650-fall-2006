@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains AdaBoost algorithm.
-file: /media/courses/18-443-statistics-for-applications-fall-2006/b29c328949873bbbf4bceee1353733e1_section17.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/b29c328949873bbbf4bceee1353733e1_section17.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: section17.pdf
 uid: b29c3289-4987-3bbb-f4bc-eee1353733e1
 ---
+This resource contains AdaBoost algorithm.
+
