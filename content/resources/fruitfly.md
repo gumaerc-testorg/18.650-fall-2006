@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/0ba55d4a47f264fc0aa8
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

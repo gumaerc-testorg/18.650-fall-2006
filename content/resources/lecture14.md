@@ -6,6 +6,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/0c5a824a932b841205b7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: 0c5a824a-932b-8412-05b7-bb4d27229abc
 ---
 This resource contains Kolmogorov-Smirnov test statistic and KS test for two samples.
-

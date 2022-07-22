@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/9bb97aef546be868515b
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: normtemp.mat
 uid: 9bb97aef-546b-e868-515b-1659d25ab21e
 ---
 This is a supporting file for lecture five.
-

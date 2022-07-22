@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/17e472c93a042cb5fd11
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: body_women.mat
 uid: 17e472c9-3a04-2cb5-fd11-d71f00cc060b
 ---
 This is a supporting file for lecture one.
-

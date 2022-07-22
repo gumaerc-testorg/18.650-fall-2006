@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/c5f71f8ebc429e105b5f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture10.pdf
 uid: c5f71f8e-bc42-9e10-5b5f-e8c42531f145
 ---
 This resource contains tests for simple hypotheses.
-

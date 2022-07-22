@@ -6,6 +6,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/c881009470d4b8d07a40
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: home2.pdf
 uid: c8810094-70d4-b8d0-7a40-0ec27b7ca746
 ---
 This resource contains problems on chi-squared test, MLE, Fisher information and  asymptotic normality.
-

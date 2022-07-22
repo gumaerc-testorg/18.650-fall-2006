@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/1d867f338d39d830fd8c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: home4.pdf
 uid: 1d867f33-8d39-d830-fd8c-1256a1f3c5ba
 ---
 This resource contains problems on covariance matrix and normal distribution.
-

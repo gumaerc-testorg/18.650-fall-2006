@@ -6,6 +6,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/a42644e735a7c7de5e4f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ptest2_443.pdf
 uid: a42644e7-35a7-c7de-5e4f-a62032b6804d
 ---
 This resource contains problem test on Poisson distribution and variance analysis.
-

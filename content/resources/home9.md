@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/1ca9d355ad6463b02034
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: home9.pdf
 uid: 1ca9d355-ad64-63b0-2034-f39cc5ecb417
 ---
 This resource contains problems on Matlab.
-

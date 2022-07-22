@@ -6,6 +6,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/bd8a23261c1afc75b6fd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: practice1.pdf
 uid: bd8a2326-1c1a-fc75-b6fd-120476c6180e
 ---
 This resource contains practice test on sample mean, sample standard deviation and Matlab commands.
-

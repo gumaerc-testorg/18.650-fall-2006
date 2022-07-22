@@ -6,6 +6,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/b31027e0924f20e5a2c7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: home3.pdf
 uid: b31027e0-924f-20e5-a2c7-9e20d15911ab
 ---
 This resouce contains problems on confidence interval, probability and joint density.
-

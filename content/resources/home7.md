@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/35c38799295780c95aef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: home7.pdf
 uid: 35c38799-2957-80c9-5aef-3106297943de
 ---
 Homework problems.
-

@@ -7,6 +7,7 @@ file: /courses/18-443-statistics-for-applications-fall-2006/da928274a46632ce0d35
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture4.pdf
 uid: da928274-a466-32ce-0d35-d2012a1c8e74
 ---
 This resource contains multivariate normal distribution, linear transformation of a normal random vector, Orthogonal transformation of an i.i.d. standard normal sample and multivariate CLT.
-
