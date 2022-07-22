@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section contains lectures topic, notes and supporting
+  files.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: be304f2c-2c95-3914-c7ed-f3c4529a02a5
 ---
@@ -25,10 +30,10 @@ SUPPORTING FILES
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-Overview of some Probability Distributions ([PDF]({{< baseurl >}}/resources/lecture1))
+Overview of some Probability Distributions ({{% resource_link 46afee1c-be70-839c-128e-f68b2a6b1e16 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Body measurements data subset (weight, height, waist girth, abdomen girth) from [this article](http://www.amstat.org/publications/jse/v11n2/datasets.heinz.html): men, body\_men.mat ([MAT]({{< baseurl >}}/resources/body_men)), women, body\_women.mat ([MAT]({{< baseurl >}}/resources/body_women))
+Body measurements data subset (weight, height, waist girth, abdomen girth) from [this article](http://www.amstat.org/publications/jse/v11n2/datasets.heinz.html): men, body\_men.mat ({{% resource_link 250abfaf-f5c2-f559-2ee4-b7b88862c317 "MAT" %}}), women, body\_women.mat ({{% resource_link 17e472c9-3a04-2cb5-fd11-d71f00cc060b "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +42,7 @@ Body measurements data subset (weight, height, waist girth, abdomen girth) from 
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Maximum Likelihood Estimators ([PDF]({{< baseurl >}}/resources/lecture2))
+Maximum Likelihood Estimators ({{% resource_link bd79a856-f16c-fa33-6fd4-c0cf13ea2611 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,7 +54,7 @@ Maximum Likelihood Estimators ([PDF]({{< baseurl >}}/resources/lecture2))
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of Maximum Likelihood Estimators ([PDF]({{< baseurl >}}/resources/lecture3))
+Properties of Maximum Likelihood Estimators ({{% resource_link 03b407da-8a94-b3fe-22d9-87453807ca46 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -61,7 +66,7 @@ Properties of Maximum Likelihood Estimators ([PDF]({{< baseurl >}}/resources/lec
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Multivariate Normal Distribution and CLT ([PDF]({{< baseurl >}}/resources/lecture4))
+Multivariate Normal Distribution and CLT ({{% resource_link da928274-a466-32ce-0d35-d2012a1c8e74 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -73,10 +78,10 @@ Multivariate Normal Distribution and CLT ([PDF]({{< baseurl >}}/resources/lectur
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Confidence Intervals for Parameters of Normal Distribution ([PDF]({{< baseurl >}}/resources/lecture5))
+Confidence Intervals for Parameters of Normal Distribution ({{% resource_link feeae6a2-dbc7-f6b0-55f4-ff2216f7f96c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Normal body temperature dataset from [this article](http://www.amstat.org/publications/jse/v4n2/datasets.shoemaker.html): normtemp.mat ([MAT]({{< baseurl >}}/resources/normtemp)) (columns: temperature, gender, heart rate).
+Normal body temperature dataset from [this article](http://www.amstat.org/publications/jse/v4n2/datasets.shoemaker.html): normtemp.mat ({{% resource_link 9bb97aef-546b-e868-515b-1659d25ab21e "MAT" %}}) (columns: temperature, gender, heart rate).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Normal body temperature dataset from [this article](http://www.amstat.org/public
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Gamma, Chi-squared, Student T and Fisher F Distributions ([PDF]({{< baseurl >}}/resources/lecture6))
+Gamma, Chi-squared, Student T and Fisher F Distributions ({{% resource_link 924817d3-3e1c-cb6f-3a6b-944c985d0cdb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -97,7 +102,7 @@ Gamma, Chi-squared, Student T and Fisher F Distributions ([PDF]({{< baseurl >}}/
 L7-L8
 {{< tdclose >}}
 {{< tdopen >}}
-Testing Hypotheses about Parameters of Normal Distribution, t-Tests and F-Tests ([PDF]({{< baseurl >}}/resources/lecture7))
+Testing Hypotheses about Parameters of Normal Distribution, t-Tests and F-Tests ({{% resource_link f260a4e1-a022-1c98-34e7-2da60002827b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -109,7 +114,7 @@ Testing Hypotheses about Parameters of Normal Distribution, t-Tests and F-Tests 
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Testing Simple Hypotheses and Bayes Decision Rules ([PDF]({{< baseurl >}}/resources/lecture9))
+Testing Simple Hypotheses and Bayes Decision Rules ({{% resource_link b0a9d4c3-e992-d639-53ad-ec134f7d8349 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -121,7 +126,7 @@ Testing Simple Hypotheses and Bayes Decision Rules ([PDF]({{< baseurl >}}/resour
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Most Powerful Test for Two Simple Hypotheses ([PDF]({{< baseurl >}}/resources/lecture10))
+Most Powerful Test for Two Simple Hypotheses ({{% resource_link c5f71f8e-bc42-9e10-5b5f-e8c42531f145 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -133,7 +138,7 @@ Most Powerful Test for Two Simple Hypotheses ([PDF]({{< baseurl >}}/resources/le
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Chi-squared Goodness-of-fit Test ([PDF]({{< baseurl >}}/resources/lecture11))
+Chi-squared Goodness-of-fit Test ({{% resource_link 896115b2-3d71-3bde-212c-45f62c086080 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -145,7 +150,7 @@ Chi-squared Goodness-of-fit Test ([PDF]({{< baseurl >}}/resources/lecture11))
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Chi-squared Goodness-of-fit Test for Composite Hypotheses ([PDF]({{< baseurl >}}/resources/lecture12))
+Chi-squared Goodness-of-fit Test for Composite Hypotheses ({{% resource_link 88ce36d1-8a82-cddc-4084-6b4c617ed6c4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,7 +162,7 @@ Chi-squared Goodness-of-fit Test for Composite Hypotheses ([PDF]({{< baseurl >}}
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Tests of Independence and Homogeneity ([PDF]({{< baseurl >}}/resources/lecture13))
+Tests of Independence and Homogeneity ({{% resource_link 3d1454c4-ec10-6c4b-e8fd-57df9acb559b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -169,7 +174,7 @@ Tests of Independence and Homogeneity ([PDF]({{< baseurl >}}/resources/lecture13
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-Kolmogorov-Smirnov Test ([PDF]({{< baseurl >}}/resources/lecture14))
+Kolmogorov-Smirnov Test ({{% resource_link 0c5a824a-932b-8412-05b7-bb4d27229abc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -181,7 +186,7 @@ Kolmogorov-Smirnov Test ([PDF]({{< baseurl >}}/resources/lecture14))
 L15-L16
 {{< tdclose >}}
 {{< tdopen >}}
-Simple Linear Regression ([PDF]({{< baseurl >}}/resources/section14))
+Simple Linear Regression ({{% resource_link c83bb7d4-e501-e4b1-af12-40fbeb407aaa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -193,14 +198,14 @@ Simple Linear Regression ([PDF]({{< baseurl >}}/resources/section14))
 L17-L18
 {{< tdclose >}}
 {{< tdopen >}}
-Multiple Linear Regression ([PDF]({{< baseurl >}}/resources/section15))
+Multiple Linear Regression ({{% resource_link dbc17cbf-dac6-1daa-ff75-056992d0af9a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Cigarette dataset - tar, nicotine, weight, carbon monoxide - from [this article](http://www.amstat.org/publications/jse/v2n1/datasets.mcintyre.html): cigarette.mat ([MAT]({{< baseurl >}}/resources/cigarette))
+Cigarette dataset - tar, nicotine, weight, carbon monoxide - from [this article](http://www.amstat.org/publications/jse/v2n1/datasets.mcintyre.html): cigarette.mat ({{% resource_link 3552a20c-d657-342b-e1fd-17605d398310 "MAT" %}})
 
-OECD Economic Development dataset: per capita income, percentage of labor force in agriculture, percentage in industry, percentage in service occupations, found [here](http://www.oecd.org/education/publicationsdocuments/datasets/): oecd.mat ([MAT]({{< baseurl >}}/resources/oecd))
+OECD Economic Development dataset: per capita income, percentage of labor force in agriculture, percentage in industry, percentage in service occupations, found [here](http://www.oecd.org/education/publicationsdocuments/datasets/): oecd.mat ({{% resource_link 562d64ea-d90b-3f73-8c51-e1d845ee1641 "MAT" %}})
 
 
 {{< tdclose >}}
@@ -211,10 +216,10 @@ OECD Economic Development dataset: per capita income, percentage of labor force 
 L19-L20
 {{< tdclose >}}
 {{< tdopen >}}
-General Linear Constraints in Multiple Linear Regression and Analysis of Variance and Covariance ([PDF]({{< baseurl >}}/resources/section16))
+General Linear Constraints in Multiple Linear Regression and Analysis of Variance and Covariance ({{% resource_link 25058b6b-4d58-af45-84dc-7d10b641a58e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Fruifly dataset from [this article](http://www.amstat.org/publications/jse/v2n1/datasets.hanley.html): fruitly.mat ([MAT]({{< baseurl >}}/resources/fruitfly))
+Fruifly dataset from [this article](http://www.amstat.org/publications/jse/v2n1/datasets.hanley.html): fruitly.mat ({{% resource_link 0ba55d4a-47f2-64fc-0aa8-64f762704a06 "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +228,7 @@ Fruifly dataset from [this article](http://www.amstat.org/publications/jse/v2n1/
 L21
 {{< tdclose >}}
 {{< tdopen >}}
-Classification Problem, AdaBoost Algorithm ([PDF]({{< baseurl >}}/resources/section17))
+Classification Problem, AdaBoost Algorithm ({{% resource_link b29c3289-4987-3bbb-f4bc-eee1353733e1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
