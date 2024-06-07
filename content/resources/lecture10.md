@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains tests for simple hypotheses.
 file: /courses/18-443-statistics-for-applications-fall-2006/c5f71f8ebc429e105b5fe8c42531f145_lecture10.pdf
+file_size: 106707
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

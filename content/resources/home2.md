@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on chi-squared test, MLE, Fisher information
   and  asymptotic normality.
 file: /courses/18-443-statistics-for-applications-fall-2006/c881009470d4b8d07a400ec27b7ca746_home2.pdf
+file_size: 36453
 file_type: application/pdf
 learning_resource_types:
 - Assignments

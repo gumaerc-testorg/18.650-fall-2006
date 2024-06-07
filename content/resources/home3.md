@@ -3,6 +3,7 @@ content_type: resource
 description: This resouce contains problems on confidence interval, probability and
   joint density.
 file: /courses/18-443-statistics-for-applications-fall-2006/b31027e0924f20e5a2c79e20d15911ab_home3.pdf
+file_size: 35005
 file_type: application/pdf
 learning_resource_types:
 - Assignments
