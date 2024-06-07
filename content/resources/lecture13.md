@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains test of homogeneity.
 file: /courses/18-443-statistics-for-applications-fall-2006/3d1454c4ec106c4be8fd57df9acb559b_lecture13.pdf
+file_size: 107899
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

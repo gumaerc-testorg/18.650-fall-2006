@@ -4,6 +4,7 @@ description: This resource contains hypotheses about mean of one normal sample, 
   about variance of one normal sample, comparing means of two normal samples and comparing
   the variances of two normal distributions.
 file: /courses/18-443-statistics-for-applications-fall-2006/f260a4e1a0221c9834e72da60002827b_lecture7.pdf
+file_size: 187475
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

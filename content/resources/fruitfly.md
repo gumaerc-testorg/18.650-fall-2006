@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-443-statistics-for-applications-fall-2006/0ba55d4a47f264fc0aa864f762704a06_fruitfly.mat
+file_size: 895
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes

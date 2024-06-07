@@ -4,6 +4,7 @@ description: This resource contains multivariate normal distribution, linear tra
   of a normal random vector, Orthogonal transformation of an i.i.d. standard normal
   sample and multivariate CLT.
 file: /courses/18-443-statistics-for-applications-fall-2006/da928274a46632ce0d35d2012a1c8e74_lecture4.pdf
+file_size: 104740
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
