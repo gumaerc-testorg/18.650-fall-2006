@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework problems.
 file: /courses/18-443-statistics-for-applications-fall-2006/35c38799295780c95aef3106297943de_home7.pdf
+file_size: 15938
 file_type: application/pdf
 learning_resource_types:
 - Assignments

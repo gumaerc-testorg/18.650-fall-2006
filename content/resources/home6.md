@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on Poisson distribution.
 file: /courses/18-443-statistics-for-applications-fall-2006/0f260a8953a728ce64f7e055d37b19e7_home6.pdf
+file_size: 22037
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains goodness-of-fit for composite hypotheses.
 file: /courses/18-443-statistics-for-applications-fall-2006/88ce36d18a82cddc40846b4c617ed6c4_lecture12.pdf
+file_size: 117577
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

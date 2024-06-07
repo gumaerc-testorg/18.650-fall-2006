@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on MSE means variance.
 file: /courses/18-443-statistics-for-applications-fall-2006/fd9b9957848954802ccf116f0069a0ed_home8.pdf
+file_size: 18265
 file_type: application/pdf
 learning_resource_types:
 - Assignments
