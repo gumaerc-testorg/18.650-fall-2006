@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains Kolmogorov-Smirnov test statistic and KS test
   for two samples.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/0c5a824a932b841205b7bb4d27229abc_lecture14.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/0c5a824a932b841205b7bb4d27229abc_lecture14.pdf
 file_size: 157536
 file_type: application/pdf
 learning_resource_types:

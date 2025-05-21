@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on Matlab commands and outputs.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/4782e779dfa4b02117f8973ee066955e_home10.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/4782e779dfa4b02117f8973ee066955e_home10.pdf
 file_size: 26946
 file_type: application/pdf
 learning_resource_types:

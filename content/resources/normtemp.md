@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture five.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/9bb97aef546be868515b1659d25ab21e_normtemp.mat
+file: /courses/18-443-statistics-for-applications-fall-2006/9bb97aef546be868515b1659d25ab21e_normtemp.mat
 file_size: 601
 file_type: application/octet-stream
 learning_resource_types:
