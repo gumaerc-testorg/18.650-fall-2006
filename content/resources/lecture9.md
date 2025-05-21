@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Bayes decision rules.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/b0a9d4c3e992d63953adec134f7d8349_lecture9.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/b0a9d4c3e992d63953adec134f7d8349_lecture9.pdf
 file_size: 116083
 file_type: application/pdf
 learning_resource_types:

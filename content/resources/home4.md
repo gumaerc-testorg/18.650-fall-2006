@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on covariance matrix and normal distribution.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/1d867f338d39d830fd8c1256a1f3c5ba_home4.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/1d867f338d39d830fd8c1256a1f3c5ba_home4.pdf
 file_size: 38512
 file_type: application/pdf
 learning_resource_types:

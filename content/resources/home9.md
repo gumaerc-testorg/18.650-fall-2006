@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on Matlab.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/1ca9d355ad6463b02034f39cc5ecb417_home9.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/1ca9d355ad6463b02034f39cc5ecb417_home9.pdf
 file_size: 17721
 file_type: application/pdf
 learning_resource_types:

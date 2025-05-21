@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture one.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/562d64ead90b3f738c51e1d845ee1641_oecd.mat
+file: /courses/18-443-statistics-for-applications-fall-2006/562d64ead90b3f738c51e1d845ee1641_oecd.mat
 file_size: 310
 file_type: application/octet-stream
 learning_resource_types:

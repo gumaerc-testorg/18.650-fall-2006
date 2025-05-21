@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains practice test on sample mean, sample standard
   deviation and Matlab commands.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/bd8a23261c1afc75b6fd120476c6180e_practice1.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/bd8a23261c1afc75b6fd120476c6180e_practice1.pdf
 file_size: 45819
 file_type: application/pdf
 learning_resource_types:

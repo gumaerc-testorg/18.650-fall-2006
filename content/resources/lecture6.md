@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains Fisher F-distribution, distribution of the random
   variable and Student t-distribution.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/924817d33e1ccb6f3a6b944c985d0cdb_lecture6.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/924817d33e1ccb6f3a6b944c985d0cdb_lecture6.pdf
 file_size: 152016
 file_type: application/pdf
 learning_resource_types:
