@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains AdaBoost algorithm.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/b29c328949873bbbf4bceee1353733e1_section17.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/b29c328949873bbbf4bceee1353733e1_section17.pdf
 file_size: 107521
 file_type: application/pdf
 learning_resource_types:

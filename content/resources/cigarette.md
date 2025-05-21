@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 17-18.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/3552a20cd657342be1fd17605d398310_cigarette.mat
+file: /courses/18-443-statistics-for-applications-fall-2006/3552a20cd657342be1fd17605d398310_cigarette.mat
 file_size: 663
 file_type: application/octet-stream
 learning_resource_types:

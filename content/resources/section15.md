@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains simple linear regression model, statistical inference
   in simple linear regression, linear combinations of parameters and prediction intervals.
-file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/dbc17cbfdac61daaff75056992d0af9a_section15.pdf
+file: /courses/18-443-statistics-for-applications-fall-2006/dbc17cbfdac61daaff75056992d0af9a_section15.pdf
 file_size: 212402
 file_type: application/pdf
 learning_resource_types:
