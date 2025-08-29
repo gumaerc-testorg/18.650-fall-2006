@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains Pearson's theorem, Chi-squared goodness-of-fit
   test for simple hypothesis and goodness-of-fit for continuous distribution.
-file: /courses/18-443-statistics-for-applications-fall-2006/896115b23d713bde212c45f62c086080_lecture11.pdf
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/896115b23d713bde212c45f62c086080_lecture11.pdf
 file_size: 227070
 file_type: application/pdf
 learning_resource_types:

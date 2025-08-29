@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains law of large numbers, central limit theorem, consistency,
   asymptotic normality and fisher information.
-file: /courses/18-443-statistics-for-applications-fall-2006/03b407da8a94b3fe22d987453807ca46_lecture3.pdf
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/03b407da8a94b3fe22d987453807ca46_lecture3.pdf
 file_size: 153769
 file_type: application/pdf
 learning_resource_types:
