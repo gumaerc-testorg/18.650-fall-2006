@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture one.
-file: /courses/18-443-statistics-for-applications-fall-2006/17e472c93a042cb5fd11d71f00cc060b_body_women.mat
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2006/17e472c93a042cb5fd11d71f00cc060b_body_women.mat
 file_size: 2470
 file_type: application/octet-stream
 learning_resource_types:
