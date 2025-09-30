@@ -20,7 +20,7 @@ L1
 {{< tdclose >}}{{< tdopen >}}
 Overview of some Probability Distributions ({{% resource_link "46afee1c-be70-839c-128e-f68b2a6b1e16" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Body measurements data subset (weight, height, waist girth, abdomen girth) from [this article](http://users.stat.umn.edu/~sandy/courses/8053/Data/Bodymeasurements/datasets.heinz.html): men, body\_men.mat ({{% resource_link "250abfaf-f5c2-f559-2ee4-b7b88862c317" "MAT" %}}), women, body\_women.mat ({{% resource_link "17e472c9-3a04-2cb5-fd11-d71f00cc060b" "MAT" %}})
+Body measurements data subset (weight, height, waist girth, abdomen girth) from {{% resource_link "03a4dc1b-da31-4827-ada1-0a2bf10a24e5" "this article" %}}: men, body\_men.mat ({{% resource_link "250abfaf-f5c2-f559-2ee4-b7b88862c317" "MAT" %}}), women, body\_women.mat ({{% resource_link "17e472c9-3a04-2cb5-fd11-d71f00cc060b" "MAT" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L2
 {{< tdclose >}}{{< tdopen >}}
@@ -44,7 +44,7 @@ L5
 {{< tdclose >}}{{< tdopen >}}
 Confidence Intervals for Parameters of Normal Distribution ({{% resource_link "feeae6a2-dbc7-f6b0-55f4-ff2216f7f96c" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Normal body temperature dataset from [this article](https://www.tandfonline.com/doi/full/10.1080/10691898.1996.11910512): normtemp.mat ({{% resource_link "9bb97aef-546b-e868-515b-1659d25ab21e" "MAT" %}}) (columns: temperature, gender, heart rate).
+Normal body temperature dataset from {{% resource_link "9664f430-c79e-438c-877b-734dd51b7d0c" "this article" %}}: normtemp.mat ({{% resource_link "9bb97aef-546b-e868-515b-1659d25ab21e" "MAT" %}}) (columns: temperature, gender, heart rate).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L6
 {{< tdclose >}}{{< tdopen >}}
@@ -105,16 +105,16 @@ L17-L18
 Multiple Linear Regression ({{% resource_link "dbc17cbf-dac6-1daa-ff75-056992d0af9a" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-Cigarette dataset - tar, nicotine, weight, carbon monoxide - from [this article](https://jse.amstat.org/v2n1/datasets.mcintyre.html): cigarette.mat ({{% resource_link "3552a20c-d657-342b-e1fd-17605d398310" "MAT" %}})
+Cigarette dataset - tar, nicotine, weight, carbon monoxide - from {{% resource_link "5edb5cf3-8ced-4813-8b74-5af467437eb1" "this article" %}}: cigarette.mat ({{% resource_link "3552a20c-d657-342b-e1fd-17605d398310" "MAT" %}})
 
-OECD Economic Development dataset: per capita income, percentage of labor force in agriculture, percentage in industry, percentage in service occupations, found [here](http://www.oecd.org/education/publicationsdocuments/datasets/): oecd.mat ({{% resource_link "562d64ea-d90b-3f73-8c51-e1d845ee1641" "MAT" %}})
+OECD Economic Development dataset: per capita income, percentage of labor force in agriculture, percentage in industry, percentage in service occupations, found {{% resource_link "165df6d7-887d-47c7-bde0-566114214251" "here" %}}: oecd.mat ({{% resource_link "562d64ea-d90b-3f73-8c51-e1d845ee1641" "MAT" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L19-L20
 {{< tdclose >}}{{< tdopen >}}
 General Linear Constraints in Multiple Linear Regression and Analysis of Variance and Covariance ({{% resource_link "25058b6b-4d58-af45-84dc-7d10b641a58e" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Fruifly dataset from [this article](https://www.medicine.mcgill.ca/epidemiology/hanley/c622/fruitfly.txt): fruitly.mat ({{% resource_link "0ba55d4a-47f2-64fc-0aa8-64f762704a06" "MAT" %}})
+Fruifly dataset from {{% resource_link "bea7546b-44d7-4ca1-9561-e3e3604db726" "this article" %}}: fruitly.mat ({{% resource_link "0ba55d4a-47f2-64fc-0aa8-64f762704a06" "MAT" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L21
 {{< tdclose >}}{{< tdopen >}}
